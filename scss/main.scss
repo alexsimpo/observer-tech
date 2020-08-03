@@ -4,6 +4,12 @@ body {
   overflow-x: hidden;
 }
 
+img {
+  min-width: 50px;
+  min-height: 50px;
+  border: 1px solid grey;
+}
+
 .site-logo {
   font-weight: 900;
   font-size: 0.8rem;
